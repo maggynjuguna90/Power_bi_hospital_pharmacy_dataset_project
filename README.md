@@ -1,6 +1,5 @@
 # Power_bi_hospital_pharmacy_dataset_project
-This project is about a hospital_pharmacy_dataset, the analysis involved cleaning the data, data analysis ,creating an interactive dashboard to help make meaningful insights.
-This report is about analysis done on a hospital-pharmacy dataset. The main information in this dataset include Patient's ID, Name, Gender, 
+This project is about a hospital_pharmacy_dataset, the analysis involved cleaning the data, data analysis ,creating an interactive dashboard to help make meaningful insights. The main information in this dataset include Patient's ID, Name, Gender, 
 County.
 The dataset also contains records the pharmacy transactions and visits.
 The purpose of this analysis is to identify the common diseases and how they are spread cross the counties, find out the relationship between 
